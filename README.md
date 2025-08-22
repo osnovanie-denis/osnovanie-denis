@@ -24,7 +24,7 @@
 
 ### Ссылки и изображения
 [Текст ссылки](URL)
-![Альт-текст](URL-изображения)
+![Альт-текст](https://avatars.mds.yandex.net/i?id=825b5f2cd41b8ed9ae33c06ad0f21e24228399ea-5321633-images-thumbs&n=13)
 
 ### Код
 ````markdown
